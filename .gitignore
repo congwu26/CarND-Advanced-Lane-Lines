@@ -1,5 +1,5 @@
-.pdf
-output_images/
+*.pdf
+output_images
 examples
 challenge_video.mp4
 writeup_template.md
